@@ -20,6 +20,5 @@ current weather information for a given city.
 - Weather condition
 - ## Sample Output
 
-### Sample Output 
 ![Terminal Output 2](demo2.png)
 
