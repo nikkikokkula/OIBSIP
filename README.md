@@ -20,5 +20,6 @@ current weather information for a given city.
 - Weather condition
 - ## Sample Output
 
-![VS Code Terminal Output](demo1.png)
+### Sample Output 
+![Terminal Output 2](dem2.png)
 
