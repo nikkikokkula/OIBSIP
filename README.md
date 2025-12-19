@@ -18,3 +18,7 @@ current weather information for a given city.
 - Temperature
 - Humidity
 - Weather condition
+- ## Sample Output
+
+![VS Code Terminal Output](demo1.png)
+
