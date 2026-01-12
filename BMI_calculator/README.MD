@@ -6,6 +6,7 @@ The program takes user input for *weight (in kilograms)* and *height (in meters)
 
 
 ## 🛠️ Technologies Used
+
 - Python 3
 
 
@@ -66,7 +67,7 @@ BMI-Calculator/
 
 
 ## 👩‍💻 Author
-*Kokkula NikhitHa*
+*Kokkula Nikhitha*
 
 
 
